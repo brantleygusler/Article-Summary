@@ -1,0 +1,5 @@
+Flask==2.2.5
+requests==2.31.0
+beautifulsoup4==4.12.2
+transformers==4.35.0   # optional; remove if you don't want model support
+torch==2.2.0           # optional; needed by transformers for local inference
